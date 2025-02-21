@@ -1,4 +1,4 @@
 ---
-title: Konrad's Professional Portfolio
+title: 
 ---
 
