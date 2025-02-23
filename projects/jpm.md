@@ -1,15 +1,15 @@
 ---
 layout: default
-title: CFA Research DUOL Report
+title: JPM IB Valuation Simulation
 ---
 
 # Report
 
-[View PDF Report](assets/CFA Research Challenge DUOL 2025.pdf)  
+[View PDF Report](assets/JPM IB Simulation 05.02.2024.xlsx)  
 
 ## Project Report
 
-<object data="assets/CFA Research Challenge DUOL 2025.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Your browser does not support PDFs. <a href="assets/CFA Research Challenge DUOL 2025.pdf">Download the PDF</a>.</p>
+<object data="assets/JPM IB Simulation 05.02.2024.xlsx" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="assets/JPM IB Simulation 05.02.2024.xlsx">Download the PDF</a>.</p>
 </object>
 
