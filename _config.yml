@@ -1,16 +1,23 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Your Project Title
+description: Your project description.
+theme: jekyll-theme-cayman
 
+# Navigation links
+navbar:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 
-title: "Konrad's Professional Portfolio"
-description: "Thank you for visiting!"
+# Projects
 
+Here are some of my projects:
 
-# add navigation links
-nav:
-  - name: "Home"
-    link: "/"
-  - name: "Project 1"
-    link: "/project1"
-
+- Project 1
+- Project 2
+- Project 3
