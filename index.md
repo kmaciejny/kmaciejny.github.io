@@ -6,7 +6,7 @@ layout: default
 
 Check out my projects:
 
-- [Project 1](/resume)
-- [Project 2](/project2)
+- [Resume](/resume)
+- [CFA DUOL Report](/duolreport)
 
 
