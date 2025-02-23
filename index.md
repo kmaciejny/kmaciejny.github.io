@@ -13,7 +13,7 @@ I have engaged in extensive research through competitions like the CFA Institute
 
 ### 📈 Interests: Commodities, derivatives, risk management, markets, economics
 ### 🧾 Certifications: SIE, Bloomberg Market Concepts, MOS - Excel Specialist, Google Project Mgmt Professional, Alteryx Designer Core Micro-Credential
-### 📊 Skills: Financial analysis, Modeling & analystics, data-driven decision-making
+### 📊 Skills: Financial analysis, Modeling & analytics, data-driven decision-making
 ### 💼 Previous Experience: Goldman Sachs, Westco Financial Group, East New York Tax
 
 <br>
