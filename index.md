@@ -4,6 +4,14 @@ layout: default
 
 # Welcome to My Portfolio
 
+
+## Check out my projects:
+
+- [Resume](projects/resume.md)
+- [CFA DUOL Report](projects/duolreport.md)
+
+<br>
+
 ## About Me
 I am a finance professional with a strong interest in rates & commodities trading, risk management, and derivatives. My experience includes an internship at Goldman Sachs, where I focused on derivatives compliance and large data automation. Also, I was an associate financial advisor at Westco Financial Group, a boutique wealth management firm, where I assisted the portfolio manager in investment screeening & research. I am also preparing for a role on a commodities physical trading desk, deepening my expertise in futures and options, particularly in the oil markets.
 
@@ -27,10 +35,5 @@ I have engaged in extensive research through competitions like the CFA Institute
 
 <br>
 <br>
-
-Check out my projects:
-
-- [Resume](projects/resume.md)
-- [CFA DUOL Report](projects/duolreport.md)
 
 
