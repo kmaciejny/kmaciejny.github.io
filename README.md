@@ -12,6 +12,8 @@ I have engaged in extensive research through competitions like the CFA Institute
 ### 📊 Skills: Financial analysis, Modeling & analystics, data-driven decision-making
 ### 💼 Previous Experience: Goldman Sachs, Westco Financial Group, East New York Tax
 
+###
+
 ### 📧 Email: [kgmaciejny@gmail.com](mailto:kgmaciejny@gmail.com)  
 ### 💼 LinkedIn: [Konrad Maciejny](https://www.linkedin.com/in/konrad-maciejny/)
 ### 🌐 Website: [https://kmaciejny.github.io/](https://kmaciejny.github.io/)  
