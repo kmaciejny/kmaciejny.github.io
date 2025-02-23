@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project 1
+title: Resume
 ---
 
 # Resume
