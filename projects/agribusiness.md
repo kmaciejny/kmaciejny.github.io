@@ -1,5 +1,3 @@
-
-
 ---
 layout: default
 title: CFA Research DUOL Report
