@@ -5,3 +5,15 @@ plugins:
 
 title: "Konrad's Professional Portfolio"
 description: "Thank you for visiting!"
+
+
+# add navigation links
+nav: 
+ - name: "Home"
+    link: "/"
+ - name: "Project 1"
+    link: "/project1"
+ - name: "Project 2"
+    link: "/project2"    
+
+
