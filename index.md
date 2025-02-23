@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-## Check out my projects:
+## Projects:
 
 - [Resume](projects/resume.md)
 - [CFA DUOL Report](projects/duolreport.md)
