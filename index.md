@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My Portfolio
+# <b>Welcome to My Portfolio</b>
 
 <br>
 
