@@ -4,6 +4,7 @@ layout: default
 
 # Welcome to My Portfolio
 
+<br>
 
 ## Check out my projects:
 
