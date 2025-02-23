@@ -14,7 +14,6 @@ I have engaged in extensive research through competitions like the CFA Institute
 
 ## 
 
-## 
 
 ### 📧 Email: [kgmaciejny@gmail.com](mailto:kgmaciejny@gmail.com)  
 ### 💼 LinkedIn: [Konrad Maciejny](https://www.linkedin.com/in/konrad-maciejny/)
