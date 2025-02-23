@@ -3,6 +3,6 @@ layout: default
 title: Project 1
 ---
 
-# Project 1
+# Resume
 
-Description of Project 1. You can add images, code snippets, or links here.
+[View PDF Report](./assets/files/Maciejny, Konrad - Resume.pdf)  
