@@ -30,7 +30,7 @@ I have engaged in extensive research through competitions like the CFA Institute
 
 Check out my projects:
 
-- [Resume](/resume)
-- [CFA DUOL Report](/duolreport)
+- [Resume](/projects/resume)
+- [CFA DUOL Report](/projects/duolreport)
 
 
