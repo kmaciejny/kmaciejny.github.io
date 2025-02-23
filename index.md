@@ -10,8 +10,8 @@ layout: default
 
 - [Resume](projects/resume.md)
 - [CFA DUOL Report](projects/duolreport.md)
-- [JPM IB Simulation](assets/JPM IB Simulation 05.02.2024.xlsx)
-- [Agribusiness Concentration](assets/Agribusiness Concentration 12.02.2024.pptx)
+- [JPM IB Simulation](projects/jpm.md)
+- [Agribusiness Concentration](projects/agribusiness.md)
 - [Misc. Items](projects/misc)
 
 
